@@ -1,0 +1,20 @@
+.container {
+  top: 0;
+  width: 10%;
+  position: fixed;
+  height: 100%;
+  background-color: #3c0080;
+}
+.icon {
+  margin: auto;
+  width: 100%;
+}
+.iconImage {
+  padding: 10px;
+  width: 80%;
+}
+@media screen and (max-width: 1024px) {
+  .container {
+    width: 20%;
+  }
+}

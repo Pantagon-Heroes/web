@@ -1,0 +1,62 @@
+.containerBody {
+  width: 100%;
+}
+.col-md-10 {
+  width: 90%;
+  margin-left: 10%;
+}
+.textContainer {
+  width: 80%;
+  text-align: justify;
+  color: white;
+  align-self: center;
+  padding-left: 50px;
+}
+.textComponents {
+  text-align: justify;
+  color: white;
+  align-self: center;
+}
+@media screen and (max-width: 680px) {
+  .textComponents {
+    font-size: 14px;
+    width: 100%;
+    text-align: justify;
+    color: white;
+    align-self: center;
+  }
+}
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.imageHeader {
+  width: 30%;
+  border-radius: 10%;
+}
+.frameworkContent {
+  background-color: #3c0180;
+  padding: 50px;
+}
+.pd-20 {
+  margin: 10%;
+  float: left;
+}
+.yellow-mark {
+  color: yellow;
+}
+.alert-bagde {
+  background-color: mediumvioletred;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+}
+.text-padding {
+  padding: 10px;
+}
+.frameworkContent {
+  background-color: #3c0180;
+  padding: 50px;
+}
