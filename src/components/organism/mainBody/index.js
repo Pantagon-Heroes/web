@@ -12,7 +12,7 @@ export default function Body() {
           <div className="alert-bagde">
             <p>
               Por favor, aguarde, logo estaremos disponivel na Play Store,
-              estamos tendo trabalhos organizando as arenas onde grandes
+              estamos trabalhando na organização das arenas onde grandes
               batalhas serão travadas.
             </p>
           </div>
